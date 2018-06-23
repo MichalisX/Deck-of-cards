@@ -110,7 +110,7 @@ while counter>0:
         flush = 1
         straight = 0
     elif str_flush==0 and just_flush==0 and straight==1:
-        straight ==1
+        straight =1
     else:
         pass
 
