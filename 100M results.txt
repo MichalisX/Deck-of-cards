@@ -1,0 +1,12 @@
+RESULTS
+Hands with nothing    =  17,417,493 hands, 17.417 %
+Hands with a pair     =  43,821,800 hands, 43.822 %
+Hands with two pairs  =  22,921,485 hands, 22.921 %
+Hands with trips      =   5,399,131 hands,  5.399 %
+Hands with straight   =   4,620,632 hands,  4.621 %
+Hands with flush      =   3,029,231 hands,  3.029 %
+Hands with full house =   2,553,293 hands,  2.553 %
+Hands with quads      =     209,562 hands,  0.210 %
+Hands with str flush  =      24,400 hands,  0.024 %
+Hands with ROYAL FLU  =       2,973 hands,  0.003 %
+End after:  9393.470
